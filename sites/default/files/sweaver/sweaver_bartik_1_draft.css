@@ -18,7 +18,7 @@
 }
 
 a span {
-  font-size: 36px;
+  font-size: 41px;
 }
 
 a img {
@@ -26,5 +26,18 @@ a img {
   color: #000000;
   line-height: 22px;
   font-size: 7px;
+}
+
+h2 a {
+  color: #75100b;
+}
+
+div #slogan {
+  padding-left: 31px;
+}
+
+#navigation ul {
+  margin-left: 0px;
+  padding-left: 30px;
 }
 
