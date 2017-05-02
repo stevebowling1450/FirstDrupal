@@ -1,0 +1,43 @@
+#name-and-slogan #site-slogan {
+  font-style: normal;
+  line-height: 27px;
+  font-size: 12px;
+  border-top-style: ridge;
+  border-right-style: ridge;
+  border-bottom-style: ridge;
+  border-left-style: ridge;
+  border-top-color: #ffffff;
+  border-right-color: #ffffff;
+  border-bottom-color: #ffffff;
+  border-left-color: #ffffff;
+  padding-left: 0px;
+  text-align: center;
+  background-color: #8b8aa8;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+
+a span {
+  font-size: 36px;
+}
+
+a img {
+  font-family: Arial, Helvetica,Sans-Serif;
+  color: #000000;
+  line-height: 22px;
+  font-size: 7px;
+}
+
+h2 a {
+  color: #75100b;
+}
+
+div #slogan {
+  padding-left: 31px;
+}
+
+#navigation ul {
+  margin-left: 0px;
+  padding-left: 30px;
+}
+
